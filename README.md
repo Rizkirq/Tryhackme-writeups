@@ -6,8 +6,8 @@ Kumpulan writeup room TryHackMe sebagai bagian dari perjalanan belajar Penetrati
 ### Active Directory
 | Room | Difficulty | Status |
 |------|-----------|--------|
-| [AD: Basic Enumeration](.https://github.com/Rizkirq/Tryhackme-writeups/blob/main/WriteUpTryHackMe-1.pdf) | Easy | ✅ Done |
-| [Attacktive Directory](./Attacktive-Directory/writeup_attacktive_directory.pdf) | Medium | ✅ Done |
+| [AD: Basic Enumeration](./WriteUpTryHackMe-1.pdf) | Easy | ✅ Done |
+| [Attacktive Directory](./WriteUpTryHackMe-2.pdf) | Medium | ✅ Done |
 
 ## 🛠️ Tools yang Sering Digunakan
 - nmap, fping — Host & port discovery
