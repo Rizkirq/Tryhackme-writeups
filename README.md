@@ -6,7 +6,7 @@ Kumpulan writeup room TryHackMe sebagai bagian dari perjalanan belajar Penetrati
 ### Active Directory
 | Room | Difficulty | Status |
 |------|-----------|--------|
-| [AD: Basic Enumeration](./AD-Basic-Enumeration/writeup.md) | Easy | ✅ Done |
+| [AD: Basic Enumeration](.https://github.com/Rizkirq/Tryhackme-writeups/blob/main/WriteUpTryHackMe-1.pdf) | Easy | ✅ Done |
 | [Attacktive Directory](./Attacktive-Directory/writeup_attacktive_directory.pdf) | Medium | ✅ Done |
 
 ## 🛠️ Tools yang Sering Digunakan
